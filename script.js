@@ -22,10 +22,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 ]
             },
             events: [
-                { title: "Wine Maker's Dinner", date: "First Thursday of the month", desc: "A curated 5-course meal with exclusive pairings.", image: "https://picsum.photos/seed/wine/400/200.jpg" },
-                { title: "Jazz Night", date: "Every Saturday 9pm - 11pm", desc: "Live smooth jazz in our lounge.", image: "https://picsum.photos/seed/jazz/400/200.jpg" },
-                { title: "Chef's Table Experience", date: "By reservation only", desc: "An exclusive tasting menu directly from our head chef.", image: "https://picsum.photos/seed/chefstable/400/200.jpg" },
-                { title: "Whiskey Tasting", date: "Third Wednesday of the month", desc: "Explore rare and fine whiskeys from around the world.", image: "https://picsum.photos/seed/whiskey/400/200.jpg" }
+                { title: "Wine Maker's Dinner", date: "First Thursday of the month", desc: "A curated 5-course meal with exclusive pairings.", image: "https://cdn.tatlerasia.com/asiatatler/i/ph/2021/07/19114243-private-wine-dinner-at-spiral4_cover_1920x1280.JPG" },
+                { title: "Jazz Night", date: "Every Fourth Thursday of the Month   4pm - 8pm", desc: "Live smooth jazz in our lounge.", image: "https://images.squarespace-cdn.com/content/v1/643844f97f99f9438a8475df/f8fca305-9063-4f18-811f-02d5c3e7e182/HHH+Nordic+Jazz+Lounge+-+Standard.png" },
+                { title: "Chef's Table Experience", date: "By reservation only", desc: "An exclusive tasting menu directly from our head chef.", image: "https://news.airbnb.com/wp-content/uploads/sites/4/2025/09/Chris_Bianco_3.jpg?w=2500" },
+                { title: "Whiskey Tasting", date: "Third Wednesday of the month", desc: "Explore rare and fine whiskeys from around the world.", image: "https://images.unsplash.com/photo-1677498439419-fede02f61e19?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpc2t5JTIwdGFzdGluZ3xlbnwwfHwwfHx8MA%3D%3D" }
             ]
         },
         uptown: {
@@ -48,10 +48,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 ]
             },
             events: [
-                { title: "Vegan Tasting Night", date: "Last Tuesday of the month", desc: "A surprising and delicious plant-based menu.", image: "https://picsum.photos/seed/vegan/400/200.jpg" },
-                { title: "Live Blues Night", date: "Every Friday 10pm - Midnight", desc: "Soulful blues to accompany your dinner.", image: "https://picsum.photos/seed/blues/400/200.jpg" },
-                { title: "Cigar & Spirits Evening", date: "Second Saturday of the month", desc: "An evening of fine cigars and aged spirits on our patio.", image: "https://picsum.photos/seed/cigar/400/200.jpg" },
-                { title: "Anniversary Special", date: "All of February", desc: "Celebrate our anniversary with a special menu and a glass of champagne.", image: "https://picsum.photos/seed/anniversary/400/200.jpg" }
+                { title: "Vegan Tasting Night", date: "Last Tuesday of the month", desc: "A surprising and delicious plant-based menu.", image: "https://plantbasednews.org/app/uploads/2024/06/plant-based-news-vegan-date-night-dinner-ideas.jpg" },
+                { title: "Live Blues Night", date: "Every Friday 10pm - Midnight", desc: "Soulful blues to accompany your dinner.", image: "https://s3-media0.fl.yelpcdn.com/bphoto/TMcJ4hz5RdsD9Iymamznww/1000s.jpg" },
+                { title: "Cigar & Spirits Evening", date: "Second Saturday of the month", desc: "An evening of fine cigars and aged spirits on our patio.", image: "https://runningharevineyard.com/cdn/shop/products/1673400246488_46e0tr0s_8e6b5215-dfd9-47ba-9997-534758e85a9e.png?v=1676660728" },
+                { title: "Anniversary Special", date: "All of February", desc: "Celebrate our anniversary with a special menu and a glass of champagne.", image: "https://www.cherryorchardshop.co.uk/cdn/shop/files/ML1634.jpg?v=1720706682" }
             ]
         },
         waterfront: {
