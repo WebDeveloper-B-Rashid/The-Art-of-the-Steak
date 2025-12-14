@@ -75,9 +75,9 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             events: [
                 { title: "Sunset Dinner Cruise", date: "Every evening (weather permitting)", desc: "Book a table for a sunset view like no other.", image: "https://media.gettyimages.com/id/1318757180/photo/wat-arun-temple-at-sunset-in-bangkok-thailand-wat-arun-is-a-buddhist-temple-in-bangkok-yai.jpg?s=612x612&w=0&k=20&c=FRLEm7lvOHp6qFMAutUUH8WXPn-eNRk8fDMvzOmiks4=" },
-                { title: "Seafood Boil Sunday", date: "Sundays 5pm - 9pm", desc: "All-you-can-eat seafood boil with corn and potatoes.", image: "https://picsum.photos/seed/boil/400/200.jpg" },
-                { title: "Acoustic Duo", date: "Wednesday & Thursday 7pm - 9pm", desc: "Relax with live acoustic music.", image: "https://picsum.photos/seed/acoustic/400/200.jpg" },
-                { title: "Mixology Masterclass", date: "First Monday of the month", desc: "Learn to craft classic cocktails with our head bartender.", image: "https://picsum.photos/seed/mixology/400/200.jpg" }
+                { title: "Seafood Boil Sunday", date: "Sundays 5pm - 9pm", desc: "All-you-can-eat seafood boil with corn and potatoes.", image: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-05-Seafood-Boil%2FSeafood_Boil-4_828c6d_landscape" },
+                { title: "Acoustic Duo", date: "Wednesday & Thursday 7pm - 9pm", desc: "Relax with live acoustic music.", image: "https://images.squarespace-cdn.com/content/v1/64d6c828b2f325097bb510a9/7e268d8b-bc98-4b91-8364-57f170a23254/FF22+Saturday+night+banquet+Hayley+Skousen+Pablo+Aragona+acoustic+music+7+smiling.jpg" },
+                { title: "Mixology Masterclass", date: "First Monday of the month", desc: "Learn to craft classic cocktails with our head bartender.", image: "https://images.squarespace-cdn.com/content/v1/636f5dbfab8c8b1d03cfa462/1704882653762-LV6TWFIH4IW1NKNOXEX3/Mojo+July21+0166.jpg" }
             ]
         }
     };
